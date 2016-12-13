@@ -6,5 +6,5 @@
  * Time: 7:42 PM
  */
 
-echo "Md. Nazmul Haque";
+include "header/index.php";
 
